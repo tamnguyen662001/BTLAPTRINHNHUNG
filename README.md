@@ -1,5 +1,6 @@
 # BTLAPTRINHNHUNG
-# Kho lưu trữ bài bập thực hành học phần Lập trình nhúng
+  Kho lưu trữ bài bập thực hành học phần Lập trình nhúng
+
 # Giảng viên : Mai Cường Thọ
 # Sinh viên : Nguyễn Lê Thành Tâm
 # MSSV : 61134311
