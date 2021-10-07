@@ -15,3 +15,5 @@
   https://www.tinkercad.com/things/lX3nsmRBMje-iu-khin-led-vi-cm-bin-tmp36/editel?sharecode=ab3yXoi3U1avVGfqkS7PIXivrqGSOzelOJRgs2Jqxn0
   BT4 Điều khiển LED sáng dần
   https://www.tinkercad.com/things/1Wafrb3ro9g-iu-khin-en-led-sang-dn/editel?sharecode=9bC6JP5qlWdqyFjuQ5j_LIaztj2hhwMoM-hYlfQCw_E
+  BT5 Điều khiển đèn LED với chiết áp
+  https://www.tinkercad.com/things/0l4kpXLs5fc-spectacular-fyyran-curcan/editel?sharecode=IqlYMRWxjtTbFm5Lif_8B43AdnwavDbmg8p5XJIltos
